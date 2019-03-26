@@ -2,6 +2,7 @@
 Pokimon
 
 IDE:Android Studio
+
 API:PokéAPI (https://pokeapi.co/)
 
 Auteur: Yiming Li
